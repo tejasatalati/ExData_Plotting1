@@ -112,3 +112,5 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+### Code files and output
+Please refer to the main forder for R code files and output file (.PNG)
